@@ -1,2 +1,4 @@
 # ProgramaCitasReact
-Una Aplicación de control de Citas con React
+Una Aplicación de control de Citas Creada con React.
+
+
